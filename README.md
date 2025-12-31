@@ -5,7 +5,7 @@
 2. As of [Unicode 17.0](https://www.unicode.org/Public/17.0.0/ucd/Scripts.txt), released in September 2025, of the 1.11 million code-points:
    - 810,304 (73%) are unallocated
    - 303,808 (27%) are allocated
-     - 159,866 (14%) have been assigned characters
+     - [159,866 (14%) have been assigned characters](/files/df_unicode17_scripts.tsv)
        - 159,629 graphical characters (some of which do not have a visible glyph, but are still counted as graphical)
        - 237 special purpose characters for control and formatting.
      - 137,468 (12%) are reserved for private use
