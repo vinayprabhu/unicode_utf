@@ -14,5 +14,5 @@
 # Key URLs
 1. [UCS Wiki](https://en.wikipedia.org/wiki/Universal_Character_Set_characters)
 2. [Unicode 17 Scripts](https://www.unicode.org/Public/17.0.0/ucd/Scripts.txt)
-   - This yields 227 'Scripts'   
 3. [ISO 15924](https://unicode.org/iso15924/iso15924-codes.html)
+   -  This yields 227 [language-script-names](/files/df_iso15924_scripts.tsv)
